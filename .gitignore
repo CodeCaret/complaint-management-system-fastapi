@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Temporary uploaded files
+temp_files/
+
+# Virtual environments
+.venv/
+
+# IDE settings
+.vscode/
